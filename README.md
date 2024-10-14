@@ -1,2 +1,2 @@
-# demo-gomodule
+# demo
 A Demo for Go module.

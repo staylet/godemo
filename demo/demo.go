@@ -2,7 +2,7 @@
 A Test Go Public module.
 */
 
-package pubmodule
+package demo
 
 func Hello() string {
 	return "Hello, Gopher!"
